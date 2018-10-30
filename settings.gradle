@@ -1,1 +1,4 @@
 include ':app'
+//include ':pack-data-process-project'
+//project(':pack-data-process-project').projectDir = new File(
+//        rootProject.projectDir, 'haowanyou-pack-data-process/pack-data-process-project')
